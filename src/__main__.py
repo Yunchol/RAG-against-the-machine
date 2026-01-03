@@ -11,3 +11,5 @@ if __name__ == "__main__":
 #python -m src search "OpenAI compatible server" --k 3
 
 #python -m src index
+
+#python -m src search "子供が怪我をした場合の対処は？" --k 3
